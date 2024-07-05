@@ -1,8 +1,8 @@
-[![MasterHead](![gifmaker_me](https://github.com/Sitharatk/Sitharatk/assets/128781766/ca39375c-f4b3-4ab2-80a5-5de73d12c4b3)
+[![MasterHead](![gifmaker_me](C:\Users\ASUS\Downloads\gifmaker_me.gif)
 )
 <h1 align="center">Hi 👋, I'm Fathima Sithara</h1>
 <h3 align="center">Software Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"›
+<img align="right" alt="Coding" width="400" src="C:\Users\ASUS\Downloads\gifmaker_me.gif"›
 
 - 📫 How to reach me **sitharaaneestk@gmail.com**
 
