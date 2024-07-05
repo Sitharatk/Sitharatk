@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Fathima Sithara</h1>
 <h3 align="center">Software Developer</h3>
-<img align="right" alt="Coding" width="400" src="[C:\Users\ASUS\Downloads\gifmaker_me.gif](https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif)"›
+<img align="right" alt="Coding" width="400" src="[C:\Users\ASUS\Downloads\gifmaker_me.gif]"›
 
 - 📫 How to reach me **sitharaaneestk@gmail.com**
 
