@@ -79,15 +79,19 @@
     </td>
   </tr>
   <tr>
-    
     <td align="center" width="100">
       <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
         <br /><small>PHP</small>
       </a>
     </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
+
 
 
 <h3 align="left">LeetCode Statistics:</h3>
