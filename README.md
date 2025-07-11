@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sitharaaneestk@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGKEUoRq08/g3MQ76z4VDYuetNlqPRg5w/edit?utm_content=DAGKEUoRq08&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://drive.google.com/file/d/1-3GF4x55c0eIYK4LxRNQC28csXbr6sEU/view?usp=sharing)
+- 📄 Know about my experiences [https://www.canva.com/design/DAGKEUoRq08/g3MQ76z4VDYuetNlqPRg5w/edit?utm_content=DAGKEUoRq08&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://drive.google.com/file/d/1srNp2ZMwfou_H1F1cGyfXFh1wG7IR2r1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
