@@ -56,7 +56,7 @@
     <td align="center" width="100">
       <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-        <br />
+        <br /><small>Express</small>
       </a>
     </td>
     <td align="center" width="100">
@@ -85,7 +85,12 @@
         <br /><small>PHP</small>
       </a>
     </td>
-    <td></td>
+    <td align="center" width="100">
+      <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
+        <br /><small>WordPress</small>
+      </a>
+    </td>
     <td></td>
     <td></td>
     <td></td>
