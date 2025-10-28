@@ -91,7 +91,13 @@
         <br /><small>WordPress</small>
       </a>
     </td>
-    <td></td>
+   <td align="center" width="100">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+    <br /><small>Next.js</small>
+  </a>
+</td>
+
     <td></td>
     <td></td>
   </tr>
